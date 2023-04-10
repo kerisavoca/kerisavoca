@@ -1,5 +1,3 @@
-<img src="./assets/colorful-banner.svg" alt="decorative banner" width="100%">
-
 ### Hi 👋
 
 I'm an engineering manager in the infrastructure / DevOps space. I enjoy working on internal development platforms. My philosophy is that platform teams are product teams with internal users. 
@@ -7,9 +5,11 @@ I'm an engineering manager in the infrastructure / DevOps space. I enjoy working
 Outside of work, I enjoy solving complex problems and building delightful user interfaces.
 
 ### Tools & technologies
+
 My recent work has involved React, Typescript, Node, Go, Figma, Storybook, GCP, AWS, Kubernetes, CircleCI, and Terraform.
 
 ### Most frequently used emojis
+
 | Emoji | Notes                                                     |
 |-------|-----------------------------------------------------------|
 | 🫠    | multiple times per day                                    |
