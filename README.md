@@ -1,8 +1,8 @@
 ### Hi 👋
 
-I'm an engineering manager in the infrastructure / DevOps space. I enjoy working on internal development platforms. My philosophy is that platform teams are product teams with internal users. 
+I'm an engineering manager in the infrastructure / DevOps space, working on internal development platforms. My philosophy is that platform teams are product teams, but with internal users. 
 
-Outside of work, I enjoy solving complex problems and building delightful user interfaces.
+Outside of work (where I fight a bunch of fires), I enjoy building web applications. Creating delightful user experiences is refreshing.
 
 ### Tools & technologies
 
