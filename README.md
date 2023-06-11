@@ -6,15 +6,7 @@ Outside of work (where I fight a bunch of fires), I enjoy building all sorts of 
 
 ### Tools & technologies
 
-My recent work has involved React, Typescript, Node, Go, Figma, Storybook, GCP, AWS, Kubernetes, CircleCI, and Terraform.
-
-### Most frequently used emojis
-
-| Emoji | Notes                                                     |
-|-------|-----------------------------------------------------------|
-| 🫠    | multiple times per day                                    |
-| 😭    | also multiple times per day                               |
-| 🥹    | any time something isn't awful yet but could be awful soon|
+My recent work has involved React, Typescript, Go, Figma, Storybook, GCP, AWS, Kubernetes, CircleCI, and Terraform.
 
 ---
 
